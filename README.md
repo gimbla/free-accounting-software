@@ -4,7 +4,7 @@ Gimbla is a simple yet full-featured [free accounting software](https://gimbla.c
 
 ## Overview
 
-Gimbla simplifies accounting by offering essential tools such as invoicing, quotes, supplier purchase orders, bank reconciliation, and more. The platform is built to minimize complexity, so you spend less time on accounting tasks and more time growing your business. With global server speeds and region-specific data storage, you can enjoy fast performance and compliance with local regulations.
+[Gimbla](https://gimbla.com) simplifies accounting by offering essential tools such as invoicing, quotes, supplier purchase orders, bank reconciliation, and more. The platform is built to minimize complexity, so you spend less time on accounting tasks and more time growing your business. With global server speeds and region-specific data storage, you can enjoy fast performance and compliance with local regulations.
 
 ## Key Features
 
